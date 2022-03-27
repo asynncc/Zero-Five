@@ -2,7 +2,6 @@
 #### Made By ! Sync
 #### [License](https://github.com/asynncc/Zero-Five/blob/main/LICENSE)
 #### [ChangeLog](https://github.com/asynncc/Zero-Five/blob/main/ChangeLog.md)
-
 ___
 
 ### ❗ • Important
@@ -12,14 +11,10 @@ ___
 ___
 
 ### 🎪 • How To Install : 
-```
-Click on the GREEN button
-Download The Zip
-Extract & Run INSTALL.bat
-or :
-git clone https://github.com/asynncc/Zero-Five.git
-Run INSTALL.bat
-```
+* 1. Go to releases
+* 2. Download 05-MassBan.V1.0.0.rar
+* 3. Extract 
+* 4. Run INSTALL.bat
 ___
 
 ### 🧠 • How To Use :
