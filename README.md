@@ -1,7 +1,7 @@
 ### Hey, Welcome to ZeroFive (MassBan)
 #### Made By ! Sync
 #### [License](https://asynncc/Zero-Five)
-#### [ChangeLog]()
+#### [ChangeLog](https://github.com/asynncc/Zero-Five/blob/main/ChangeLog.md)
 
 ___
 
