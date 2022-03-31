@@ -2,6 +2,7 @@
 #### Made By ! Sync
 #### [License](https://github.com/asynncc/Zero-Five/blob/main/LICENSE)
 #### [ChangeLog](https://github.com/asynncc/Zero-Five/blob/main/ChangeLog.md)
+#### [Video(Preview)](https://www.youtube.com/watch?v=sXe-XKrK6wU)
 ___
 
 ### ❗ • Important
