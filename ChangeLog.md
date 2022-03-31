@@ -8,3 +8,9 @@
 * `Added PyStyle`
 * `Added Use Proxies or False`
 ___
+### Zero-Five ; V2.0.0 :
+* `Added Show-Logs`
+* `Added Scrape Proxies`
+* `Enable Show Logs or disable it`
+* `Auto Scrape Proxies enable or disable it`
+* `Made it stable`
